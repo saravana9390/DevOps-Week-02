@@ -1,4 +1,4 @@
 APP_NAME=DevOps-Week-02
-ENVIRONMENT=production
+ENVIRONMENT=staging
 VERSION=2.0
 MONITORING=enabled
